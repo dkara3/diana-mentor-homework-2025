@@ -1,0 +1,14 @@
+public class Problem42LargestofTwo {
+    public static void main(String[] args) {
+
+        int a = -5;
+        int b = 2;
+
+        if (a > b) {
+            System.out.println(b);
+        } else {
+            System.out.println(a);
+        }
+
+    }
+}
